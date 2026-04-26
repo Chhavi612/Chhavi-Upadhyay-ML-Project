@@ -1,6 +1,6 @@
-# 📚 Book Recommendation System
+#  Book Recommendation System
 
-## 🚀 Overview
+## Overview
 
 This project is a **Content-Based Book Recommendation System** built using **Python and Machine Learning**. It suggests books to users based on similarity between different book features such as title, authors, categories, and descriptions.
 
@@ -8,7 +8,7 @@ Along with recommendations, the project also includes **data analysis and classi
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 * Build a recommendation system based on book similarity
 * Perform data analysis to extract meaningful insights
@@ -17,30 +17,30 @@ Along with recommendations, the project also includes **data analysis and classi
 
 ---
 
-## 📂 Dataset
+## Dataset
 
-* 📎 Source: Kaggle
-* 📁 File Used: `Books.csv`
+* Source: Kaggle
+* File Used: `Books.csv`
 
 ```
 https://www.kaggle.com/datasets/abdallahwagih/books-dataset/data
 ```
 
-### 📊 Dataset Features
+### Dataset Features
 
 The dataset includes:
 
-* 📖 Book Title
-* ✍️ Authors
-* 🏷️ Categories
-* 📝 Description
-* ⭐ Average Rating
-* 👥 Ratings Count
-* 📄 Number of Pages
+* Book Title
+* Authors
+* Categories
+* Description
+* Average Rating
+* Ratings Count
+* Number of Pages
 
 ---
 
-## ⚙️ Features
+## Features
 
 ### 🔹 Recommendation System
 
@@ -60,7 +60,7 @@ The dataset includes:
 * Visualization of trends
 
 
-## 📊 Model Evaluation
+## Model Evaluation
 
 * Evaluated using:
 
@@ -70,19 +70,19 @@ The dataset includes:
 
 * Compared different models to determine best performance
 
-## 👤 Author
+## Author
 
 **Chhavi Upadhyay**
 
 ---
 
-## ⭐ Acknowledgment
+## Acknowledgment
 
 * Dataset sourced from Kaggle
 * Thanks to open-source libraries and tools
 
 ---
 
-## 📜 License
+## License
 
 This project is for educational purposes.
